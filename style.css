@@ -1,7 +1,30 @@
+
+body {
+    font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    
+  }
+/* footer bg color  */
 .bg-4 {
     background-color: #2f2f2f;
     color: #ffffff;
   }
+
+  /* toast styles */
   .toast-border {
     border-left: 5px solid #0066ff;
+  }
+/* navbar button style */
+  .carousel-button {
+    background-color: #008CBA; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    border-radius: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 2px 2px;
+    cursor: pointer;
   }
